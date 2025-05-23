@@ -5,7 +5,7 @@ Our Vision: Build the world's most inclusive telegram bot, fueled by $DEXT, the 
 Our Goal: is to partner with Tier 1 project developers (we do not condone pump and dumps).
 
 Utility Tool - Trending bot, Volume generation, liquidity provider, boost holder count 
-Built for Creators, Developers, and the multichain communities
+Built for Creators, Developers, and the multichain communities.
 Currently only available for SOL.. SUI, ETH, and more to come.
 
 Problem - 
