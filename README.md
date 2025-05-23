@@ -9,6 +9,7 @@ Utility Tool - Trending bot, Volume generation, liquidity provider, boost holder
 Built for Creators, Developers, and the multichain communities.
 Currently only available for SOL.. SUI, ETH, and more to come.
 
+
 Problem - 
 
 The decentralized finance (DeFi) ecosystem, while revolutionary, presents significant challenges for participants, particularly in the DEX space.
@@ -26,6 +27,7 @@ Fragmented Data Across Blockchains:
   Information Overload and Noise:
   The sheer volume of DeFi data creates noise, making it difficult to distinguish genuine trends from scams or short-lived pumps. 
   This is especially problematic for retail traders who lack the tools to find actionable insights.
+
 
 Solution -
 
@@ -47,6 +49,7 @@ Solution -
   Accurate and precise delivery, once the bot is actived our custom AI driven RPC nodes immediately begin 
   firing at all cyclinders to give the user a project experience they could never believe without experiencing it first hand.
 
+
 Tokenomics -
 
   1B Minted supply
@@ -59,6 +62,7 @@ Tokenomics -
   -The more the utility is used, the more money will be spent on pushing $DEXT token MC up!
   10% of revenue will be spent on marketing and exposure outside of the crypto space (targeted ADs)
   25% of generated revenue from the tool goes to the team.
+
   
 Utility -
   Market Maker services
@@ -68,10 +72,12 @@ Utility -
   Boost holder count
   Sniper bot
 
+
 Governance -
 
   $DEXT holders govern the project via DAO, voting on chain integrations, fee structures, and feature updates.
   Proposals require a minimum of 10M DEXT token to submit and a 60% approval rate to pass. (The minimum may vary as the project ages).
+
   
 Roadmap - 
 
@@ -93,6 +99,7 @@ Roadmap -
   - Marketing campaign reaching over 250M+ users.
   - (3) T1 CEX listings
   - Launch cross platform, supporting SUI, ETH, BNB, Polygon, XRP, and Base.
+
     
 Disclaimer -
 
