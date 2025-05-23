@@ -12,7 +12,7 @@ Problem -
 The decentralized finance (DeFi) ecosystem, while revolutionary, presents significant challenges for participants, particularly in the DEX space.
 
 Fragmented Data Across Blockchains:
-  DEX activivty is spread across multiple blockchains like Solana, Ethereum, BNB chain, polygon and base.
+  DEX activity is spread across multiple blockchains like Solana, Ethereum, BNB chain, polygon and base.
   Traders and Investors struggle to find/access new projects, usually due to lack of visibility or network.
 
   Delayed and Inaccurate Insights:
@@ -30,8 +30,8 @@ Solution -
 
   Unified, Real-Time Data
   Dextrending aggregates transaction data from the DEXT bot.
-  That's right! When a developer deploys our bot, the DEX Trending channel is gets an 
-  announcement that the bot has been activated, supplying the CA and ticker.
+  That's right! When a developer deploys our bot, the DEX Trending channel receives an 
+  message that the bot has been activated, supplying the CA and ticker of the targeted project.
   That way DEVs and investors alike can take full advantage of the Trending bot, minutes before the project hits top 30.
   First movers advantage for DEXT holders!
 
@@ -40,7 +40,7 @@ Solution -
   Dex Trending gurantees that visibility or your money back!
   Experience project success like never before with $DEXT Dex Trending!
 
-  Accurate and precise delivery, Once the bot is actived our custom AI driven RPC nodes immediately begin 
+  Accurate and precise delivery, once the bot is actived our custom AI driven RPC nodes immediately begin 
   firing at all cyclinders to give the user a project experience they could never believe without experiencing it first hand.
 
 Tokenomics -
