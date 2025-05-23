@@ -75,11 +75,13 @@ Roadmap -
   - Project Development
   - First functional tool
   - Open presale to public
+    
   Q3 2025
   - Update tool to include: Wallet tracker, CA notification and tracker, Sniper function
   - Register token under LLC in the USA
   - Animation series for mascot (DEXTER), BECAUSE why not?! We're having fun!
   - 3 CEX listing(s) T1-3
+    
   Q4 2025 - Q2 2026
   - Partner with large companies & CEX's to provide MM services.
   - Marketing campaign reaching over 250M+ users.
