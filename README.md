@@ -1,5 +1,6 @@
 # DEXT
 Introduction -
+
 Our Mission: Build a utility tool that can be operated by everyday people.
 Our Vision: Build the world's most inclusive telegram bot, fueled by $DEXT, the number 1 trusted MM in blockchain.
 Our Goal: is to partner with Tier 1 project developers (we do not condone pump and dumps).
@@ -9,9 +10,11 @@ Built for Creators, Developers, and the multichain communities.
 Currently only available for SOL.. SUI, ETH, and more to come.
 
 Problem - 
+
 The decentralized finance (DeFi) ecosystem, while revolutionary, presents significant challenges for participants, particularly in the DEX space.
 
 Fragmented Data Across Blockchains:
+
   DEX activity is spread across multiple blockchains like Solana, Ethereum, BNB chain, polygon and base.
   Traders and Investors struggle to find/access new projects, usually due to lack of visibility or network.
 
@@ -25,6 +28,7 @@ Fragmented Data Across Blockchains:
   This is especially problematic for retail traders who lack the tools to find actionable insights.
 
 Solution -
+
   Dex Trending tackles these challenges by providing a real-time, cross-chain analytics platform tailored for DEX users, 
   with the $DEXT token powering key functionalities and incentivising participation.
 
@@ -44,7 +48,7 @@ Solution -
   firing at all cyclinders to give the user a project experience they could never believe without experiencing it first hand.
 
 Tokenomics -
-  Presale!
+
   1B Minted supply
   150M presale tokens
   Unsold presale tokens will be burned weekly.
@@ -65,10 +69,12 @@ Utility -
   Sniper bot
 
 Governance -
+
   $DEXT holders govern the project via DAO, voting on chain integrations, fee structures, and feature updates.
   Proposals require a minimum of 10M DEXT token to submit and a 60% approval rate to pass. (The minimum may vary as the project ages).
   
 Roadmap - 
+
   Q2 2025
   - Conceptualize product
   - Build supporting team
@@ -89,6 +95,7 @@ Roadmap -
   - Launch cross platform, supporting SUI, ETH, BNB, Polygon, XRP, and Base.
     
 Disclaimer -
+
 General Disclaimer
 The information provided by DexTrending (the “Platform”) and its associated services, including but not limited to the website (dextrending.org), Telegram, Telegram bot, white paper, blog posts, social media channels, and analytics dashboards, is for informational purposes only and does not constitute financial, investment, legal, or tax advice. DexTrending is not a financial advisor, broker, or registered investment entity. Users are solely responsible for conducting their own research and due diligence before making any investment or trading decisions based on the data, insights, or rankings provided by the Platform.
 Risk Acknowledgment
