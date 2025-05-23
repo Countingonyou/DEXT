@@ -1,8 +1,11 @@
 # DEXT
+
 Introduction -
 
 Our Mission: Build a utility tool that can be operated by everyday people.
+
 Our Vision: Build the world's most inclusive telegram bot, fueled by $DEXT, the number 1 trusted MM in blockchain.
+
 Our Goal: is to partner with Tier 1 project developers (we do not condone pump and dumps).
 
 Utility Tool - Trending bot, Volume generation, liquidity provider, boost holder count 
@@ -52,11 +55,19 @@ Solution -
 
 Tokenomics -
 
-  1B Minted supply
-  150M presale tokens
+  1B Minted Supply
+
+  50% Presale
+  5% Team
+  10% Marketing
+  20% Dex liquidity
+  15% CEX liquidity
+  
   Unsold presale tokens will be burned weekly.
   5% Sell (Jeet) tax for project sustainablility.
-  
+
+
+  Bot Revenue - 
   15% of total revenue generated from using the tool will go back to holders.
   50% of revenue will be put into the treasury - Used for strategic buy backs of the native token.
   -The more the utility is used, the more money will be spent on pushing $DEXT token MC up!
