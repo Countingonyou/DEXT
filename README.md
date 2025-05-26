@@ -96,7 +96,9 @@ Bonus effiency system
 
 5 000 000 Tokens = 10% boost on every order
 
+
   Bot Revenue - 
+  
   20% of total revenue generated from using the tool will go back to holders.
   
   50% of revenue will be put into the treasury - Used for strategic buy backs of the native token.
