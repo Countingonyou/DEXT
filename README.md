@@ -63,9 +63,34 @@ Tokenomics -
   20% Dex liquidity
   15% CEX liquidity
   
-  Unsold presale tokens will be burned weekly.
-  5% Sell (Jeet) tax for project sustainablility.
+Unsold presale tokens will be burned weekly.
 
+Our unique “Anti Jeet” feature
+punishes sellers with a 5% sell txh fee that is
+distributed back to the holders of the coin in USDC. 
+The more you hold, the higher the reward share.
+
+Linked to bot:
+
+  https://t.me/MultiDexTrendingBot?start=ref_7nvn4v
+
+To run the tool you need to hold atleast
+
+100 000 DEXT tokens in your wallet
+
+Bonus effiency system
+
+100 000 tokens = No extra boosts
+
+250 000 Tokens  = 1.2% boost on every order
+
+500 000 Tokens = 2.5% boost on every order
+
+1 000 000 Tokens = 4.5% boost on every order 
+
+2 000 000 Tokens  = 6.5% boost on every order 
+
+5 000 000 Tokens = 10% boost on every order
 
   Bot Revenue - 
   15% of total revenue generated from using the tool will go back to holders.
