@@ -58,9 +58,13 @@ Tokenomics -
   1B Minted Supply
 
   50% Presale
+  
   5% Team
+  
   10% Marketing
+  
   20% Dex liquidity
+  
   15% CEX liquidity
   
 Unsold presale tokens will be burned weekly.
