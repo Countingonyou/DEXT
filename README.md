@@ -74,7 +74,7 @@ punishes sellers with a 5% sell txh fee that is
 distributed back to the holders of the coin in USDC. 
 The more you hold, the higher the reward share.
 
-Linked to bot:
+Link to bot:
 
   https://t.me/MultiDexTrendingBot?start=ref_7nvn4v
 
