@@ -97,11 +97,14 @@ Bonus effiency system
 5 000 000 Tokens = 10% boost on every order
 
   Bot Revenue - 
-  15% of total revenue generated from using the tool will go back to holders.
+  20% of total revenue generated from using the tool will go back to holders.
+  
   50% of revenue will be put into the treasury - Used for strategic buy backs of the native token.
   -The more the utility is used, the more money will be spent on pushing $DEXT token MC up!
+  
   10% of revenue will be spent on marketing and exposure outside of the crypto space (targeted ADs)
-  25% of generated revenue from the tool goes to the team.
+  
+  20% of generated revenue from the tool goes to the team.
 
   
 Utility -
