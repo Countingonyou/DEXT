@@ -63,7 +63,7 @@ Tokenomics -
   
   10% Marketing
   
-  20% Dex liquidity
+  20% DEX liquidity
   
   15% CEX liquidity
   
