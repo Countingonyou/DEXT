@@ -72,6 +72,7 @@ Unsold presale tokens will be burned weekly.
 Our unique “Anti Jeet” feature
 punishes sellers with a 5% sell txh fee that is
 distributed back to the holders of the coin in USDC. 
+
 ** This feature has been removed due to early launch issues, we were unable to code contract for 5% jeet tax.
 
 Link to bot:
