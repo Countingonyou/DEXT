@@ -111,11 +111,11 @@ Bonus effiency system
 
   
 Utility -
-  Market Maker services
-  Trending bot
-  Volume generator
-  Liquidity provider
-  Boost holder count
+  Market Maker services,
+  Trending bot,
+  Volume generator,
+  Liquidity provider,
+  Boost holder count,
   Sniper bot
 
 
