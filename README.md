@@ -103,7 +103,7 @@ Bonus effiency system
   20% of total revenue generated from using the tool will go back to holders.
   
   50% of revenue will be put into the treasury - Used for strategic buy backs of the native token.
-  -The more the utility is used, the more money will be spent on pushing $DEXT token MC up!
+  -The more the utility is used, the more money will be spent on pushing $DEXTER token MC up!
   
   10% of revenue will be spent on marketing and exposure outside of the crypto space (targeted ADs)
   
